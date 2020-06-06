@@ -1,9 +1,7 @@
 
-require
----------------
+# require
 
-exports.js
------------
+### exports.js
 
 ```javascript
 const getPen = (penName) => {
@@ -27,8 +25,7 @@ module.exports = {
 
 ```
 
-import.js
-------------
+#### import.js
 
 ```javascript
 
@@ -44,7 +41,7 @@ console.log(allExports.getArr);
 
 ## module patterns
 
-### exports.js
+#### exports.js
 
 ```javascript
 
