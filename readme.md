@@ -1,7 +1,7 @@
 
 # require
 
-### exports.js
+#### exports.js
 
 ```javascript
 const getPen = (penName) => {
@@ -65,7 +65,7 @@ module.exports = {
 
 ```
 
-## import.js
+#### import.js
 ------------
 
 ```javascript
