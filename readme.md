@@ -43,9 +43,8 @@ console.log(allExports.getArr);
 ```
 
 ## module patterns
-----------------
+
 ### exports.js
---------------
 
 ```javascript
 
