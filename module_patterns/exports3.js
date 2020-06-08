@@ -11,4 +11,4 @@ function getArea(l, b) {
 module.exports = {
     moviesFunc,
     getArea
-}
+};

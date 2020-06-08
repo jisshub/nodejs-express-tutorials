@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "node js tutorials",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisshub/nodejs-express-tutorials.git"
+  },
+  "author": "jissmon jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisshub/nodejs-express-tutorials/issues"
+  },
+  "homepage": "https://github.com/jisshub/nodejs-express-tutorials#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

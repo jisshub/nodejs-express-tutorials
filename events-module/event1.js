@@ -14,5 +14,5 @@ emitter.on('event', (msg) => {
 //  - function attached to that event is fired.
 emitter.emit('event', "event was emitted");
 
-
+ 
 
