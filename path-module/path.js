@@ -22,3 +22,6 @@ console.log(path.parse('./path.js'))
 // 
 console.log(path.dirname('./test-dir/new-dir'));
 
+// get the file extension using parse()
+path.parse(filename).ext;
+
